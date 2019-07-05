@@ -22,5 +22,7 @@ DataBase note
     </head>
     <body>
     </body>
-     
+</html>
+
+위의 html코드를 이용하여...     
   
